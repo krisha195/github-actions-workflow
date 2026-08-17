@@ -12,4 +12,3 @@ func TestAdd(t *testing.T) {
         t.Errorf("Expected %d but got %d", expected, result)
     }
 }
-go mod init github.com/yourusername/github-actions-workflow
